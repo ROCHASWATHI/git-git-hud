@@ -1,2 +1,2 @@
-# git-git-hud.
+# git-git-hub.
 this is tutorial purpose.
